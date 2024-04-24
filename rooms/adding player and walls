@@ -1,0 +1,5 @@
+git add *
+
+git commit -m "adding player and walls"
+
+git push origin main
