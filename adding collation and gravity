@@ -1,0 +1,5 @@
+git add *
+
+git commit -m "adding platform collisions and gravity"
+
+git push origin main
