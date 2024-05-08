@@ -1,0 +1,5 @@
+git add *
+
+git commit -m "wrapping up animations"
+
+git push origin main
