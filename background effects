@@ -1,0 +1,10 @@
+git add *
+
+git commit -m "adding final environment effects"
+
+git push origin main
+
+git tag -a v1.0 -m "Version 1.0 released"
+
+git push origin v1.0
+
