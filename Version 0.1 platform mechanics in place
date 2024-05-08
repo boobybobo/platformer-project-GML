@@ -7,3 +7,9 @@ git push origin main
 git tag -a v0.1 -m "Version 0.1 platform mechanics in place"
 
 git push origin v0.1
+hsp = 0;
+vsp = 0;
+grv = 0.3;
+walksp = 4;
+jumpsp = 9;
+
